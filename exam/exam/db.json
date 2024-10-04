@@ -1,0 +1,36 @@
+{
+  "pitches": [
+    {
+      "id": "e811",
+      "title": "iphone",
+      "image": "https://inspireonline.in/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg?v=1694605206",
+      "category": "Electronics",
+      "founder": "Steve Jobs",
+      "price": "150000"
+    },
+    {
+      "id": "c783",
+      "title": "Mamaearth",
+      "image": "https://images-cdn.ubuy.co.in/63407d26ed119172224e17d4-mamaearth-complete-skin-glow-kit.jpg",
+      "category": "Personal Care",
+      "founder": "Varun Alagh",
+      "price": "300"
+    },
+    {
+      "id": "1d14",
+      "title": "nykaa",
+      "image": "https://www.nykaa.com/beauty-blog/wp-content/uploads/images/issue269/makeup-final2.jpg",
+      "category": "Fashion",
+      "founder": "Falguni Nayar",
+      "price": "300"
+    },
+    {
+      "id": "4617",
+      "title": "Artificial stone earrings",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbdBtMleso3g-6Kd-NEtHnRDMn9FIY08QgxqJGKpyd-LLsw3c6pHehDPBSArs3dsE94KVBew_6pp9CCEXkbz8tXoWs-jpRCwemkSEjvtb4",
+      "category": "Fashion",
+      "founder": "Mukesh Bansal",
+      "price": "584"
+    }
+  ]
+}
